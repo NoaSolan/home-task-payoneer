@@ -1,6 +1,6 @@
 # Home Assignment README
 
-This repository contains code for a home assignment consisting of two tasks:
+This repository contains code for a home assignment consisting of two tasks, The solution to the assignments in Jupiter Notebook-  [Click Here](payoneer-home-assignment.ipynb)
 
 ## First Assignment: Calculating Login Levels
 
